@@ -15,6 +15,9 @@
 
 my tech stack and skills:
 
+![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge)
+![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge)
 
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
