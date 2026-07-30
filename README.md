@@ -21,7 +21,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 
 
-### Frontend & Backend
+### Framework
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
@@ -38,5 +38,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![K6](https://img.shields.io/badge/-K6-7D64FF?style=for-the-badge\&logo=k6\&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
-
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ---
