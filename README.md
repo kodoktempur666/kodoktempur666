@@ -23,9 +23,11 @@
 
 ### Framework
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge\&logo=fastify\&logoColor=white)
+![Go Fiber](https://img.shields.io/badge/-Go%20Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Database
 
